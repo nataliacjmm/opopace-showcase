@@ -13,6 +13,3 @@
 ## Architecture & Tech Stack
 - **Backend & Deployment:** Python, Docker / `docker-compose`, Render (`render.yaml`), and Vercel (`vercel.json`).
 - **Algorithm:** FSRS v4 (*Free Spaced Repetition Scheduler*).
-
-## Screenshots / Demo
-> *Add screenshots or GIFs of the application here.*
